@@ -2,7 +2,7 @@
 Repository for schedviz.com an open source visualizer of major sports league schedules
 
 ## Initial Project Goal
-Automatically generate NBA schedule visualizations currently done manually by Aaron Barzilai with help from Alejando Altaras. 
+Automatically generate NBA schedule visualizations by Aaron Barzilai with help from Alejando Altaras. 
 
 Sample:
 
@@ -33,4 +33,5 @@ You can also view [the sample at schedviz.com](http://schedviz.com/sample.png)
 ## Notes
 
 > I had hoped to have fleshed out more of the framework prior to the Sloan conference but haven't had a chance yet.  I would welcome your help on any aspects of the project and will work to flesh out more details of how the different functions/modules will interact. For now, I've posted the project to get it out there and solicit contributors. I'll be responsible for any costs to host and execute the site and it will always be ad-free.  By using AWS Lambda I am expecting the costs to be minimial. 
-> I do hope that you'll think about contributing to schedviz.com, I would welcome any assistance at both the programming and the website design.  If you're interested, please let me know.  I am at the Sloan Conference this weekend and you can reach me on twitter as [@aaronbarzilai](https://twitter.com/basketballvalue) - Aaron Barzilai 2016-03-11 02:00
+> 
+> I do hope that you'll think about contributing to schedviz.com, I would welcome any assistance on both the programming and the website design.  If you're interested, please let me know.  I am at the Sloan Conference this weekend and you can reach me on twitter as [@aaronbarzilai](https://twitter.com/basketballvalue) - Aaron Barzilai 2016-03-11 02:00
